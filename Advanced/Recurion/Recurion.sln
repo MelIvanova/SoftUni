@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maze", "Recurion\Maze.csproj", "{B83CE61E-F9E3-47EC-BD9A-424AE3FC1F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueensProblem", "EightQueensProblem\EightQueensProblem.csproj", "{35872849-F9B8-4E01-86DE-CF5C7E906D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83CE61E-F9E3-47EC-BD9A-424AE3FC1F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83CE61E-F9E3-47EC-BD9A-424AE3FC1F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83CE61E-F9E3-47EC-BD9A-424AE3FC1F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83CE61E-F9E3-47EC-BD9A-424AE3FC1F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35872849-F9B8-4E01-86DE-CF5C7E906D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35872849-F9B8-4E01-86DE-CF5C7E906D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35872849-F9B8-4E01-86DE-CF5C7E906D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35872849-F9B8-4E01-86DE-CF5C7E906D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325CD8E7-1602-454C-B722-3AD450D7A473}
+	EndGlobalSection
+EndGlobal
